@@ -31,3 +31,6 @@ Master student in the [EIT Digital Master's course in Autonomous systems](https:
 </a>
 
 Feel free to reach out to me at adityak735@gmail.com for any collaborations.
+
+### Fun Fact
+- I am a musician - multiinstrumentalist and singer - and can sing in around 8 languages so far. Checkout some of my song covers on my [instagram page](https://www.instagram.com/melodic.musings/)
