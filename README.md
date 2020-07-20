@@ -20,9 +20,6 @@ Master student in the EIT Digital Master's course in Autonomous systems, working
 - Embedded C
 - Python
 
-## GitHub Stats :chart_with_upwards_trend:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amsks&show_icons=true)
-
 
 ## Social Media :speech_balloon:
 <a href="https://www.linkedin.com/in/aditya-mohan-52734b132/" target="_blank">
