@@ -21,7 +21,7 @@ Master student in the EIT Digital Master's course in Autonomous systems, working
 - Python
 
 ## GitHub Stats :chart_with_upwards_trend:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=michaeltomasik&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amsks&show_icons=true)
 
 
 ## Social Media :speech_balloon:
