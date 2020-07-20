@@ -32,5 +32,10 @@ Master student in the [EIT Digital Master's course in Autonomous systems](https:
 
 Feel free to reach out to me at adityak735@gmail.com for any collaborations.
 
+## Education
+- [EURECOM](http://www.eurecom.fr/en)
+- [TU-Berlin](https://www.tu.berlin/)
+- [Manipal Institute of Technology](https://manipal.edu/mit.html)
+
 ### Fun Fact
 - I am a musician - multiinstrumentalist and singer - and can sing in around 8 languages so far. Checkout some of my song covers on my [instagram page](https://www.instagram.com/melodic.musings/)
