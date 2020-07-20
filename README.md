@@ -1,4 +1,4 @@
-# Student in Robotics and AI
+# Aspiring Roboticist
 
 ## Table of contents :notebook:
 - [Introduction](#introduction-page_with_curl)
