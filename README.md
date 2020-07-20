@@ -8,7 +8,7 @@
 - [Social Media](#social-media-speech_balloon)
 
 ## Introduction :page_with_curl: 
-Master student in the [EIT Digital Master's course in Autonomous systems](https://masterschool.eitdigital.eu/programmes/aus/), working towards a specialization in Connected Robotics and Reinforcement Learning. Master student in the EIT Digital Master's course in Autonomous systems, working towards a specialization in Connected Robotics and Reinforcement Learning. I have previously worked in various fields in hardware and software, and on projects that range from cognitive radios to RTOS stacks, and now I am aspiring to become a researcher in the field of AI. I'm always up for collaborating on interesting projects and am slowly working on implementing multiple ideas as projects.
+Master student in the [EIT Digital Master's course in Autonomous systems](https://masterschool.eitdigital.eu/programmes/aus/), working towards a specialization in Connected Robotics and Reinforcement Learning. Master student in the EIT Digital Master's course in Autonomous systems, working towards a specialization in Connected Robotics and Reinforcement Learning. I have previously worked in various fields in hardware and software, and on projects that range from cognitive radios to RTOS stacks, and now I aim to combine them and become a researcher in the field of AI. I'm always up for collaborating on interesting projects and am slowly working on implementing multiple ideas as projects.
 
 ## Skills :file_folder:
 - Tech Savvy
