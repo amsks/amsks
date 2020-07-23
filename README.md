@@ -1,4 +1,4 @@
-# Aspiring Roboticist
+# Robotics and AI Enthusiast
 
 ## Table of contents :notebook:
 - [Introduction](#introduction-page_with_curl)
