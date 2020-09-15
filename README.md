@@ -30,7 +30,7 @@ Master student in the [EIT Digital Master's course in Autonomous systems](https:
   <img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" height=50 />
 </a>
 
-Feel free to reach out to me at adityak735@gmail.com for any collaborations.
+Feel free to reach out to me at adityak735@gmail.com .
 
 ## Education
 - [EURECOM](http://www.eurecom.fr/en)
