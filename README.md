@@ -8,18 +8,13 @@
 - [Social Media](#social-media-speech_balloon)
 
 ## Introduction 
-Master student in the [EIT Digital Master's course in Autonomous systems](https://masterschool.eitdigital.eu/programmes/aus/), working towards a specialization in Connected Robotics and Reinforcement Learning. I have previously worked in various fields in hardware and software, and on projects that range from cognitive radios to RTOS stacks, and now I aim to combine them and become a researcher in the field of Robotics and AI. I'm always up for collaborating on interesting projects.
+I am a Master student in the EIT Digital Master's course in Autonomous systems, working towards a specialization at the intersection of Robotics and Reinforcement Learning. I have previously worked in various fields in hardware and software, and on projects that range from cognitive radios to RTOS stacks, and now I aim to combine them and become a researcher in the field of Robotics and AI. I'm always up for collaborating on interesting projects.I'm always up for collaborating on interesting projects.
 
 ## Skills
-- Tech Savvy
-- Great Organization
-- Clean Code Believer
-
-## Technologies
-- C++
-- Embedded C
-- Python
-
+- **Robotics** : ROS, MORSE, FlexBE
+- **Programming** : C++, Embedded C, Python, JAVA
+- **RL Software** : OpenAI Gym, PyBullet, PhysX, RAI
+- **Deep Learning** : Pytorch, Keras, Tensorflow
 
 ## Social Media
 <a href="https://www.linkedin.com/in/aditya-mohan-52734b132/" target="_blank">
