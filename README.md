@@ -8,12 +8,12 @@
 - [Social Media](#social-media-speech_balloon)
 
 ## Introduction 
-I am a Master student in the EIT Digital Master's course in Autonomous systems, working towards a specialization at the intersection of Robotics and Reinforcement Learning. I have previously worked in various fields in hardware and software, and on projects that range from cognitive radios to RTOS stacks, and now I aim to combine them and become a researcher in the field of Robotics and AI. I'm always up for collaborating on interesting projects.I'm always up for collaborating on interesting projects.
+I am a Master student in the EIT Digital Master's course in Autonomous systems. I am interested in exploring how systems infer patterns from empirical data and training them to learn a wide variety of skills from low-volume datasets. What excites me the most is the extent to which we can learn about our intelligence through the endeavor of creating one. I am currently working towards a specialization in Robotics and Reinforcement Learning. I am always up for working on interesting projects and ideas! 
 
 ## Skills
 - **Robotics** : ROS, MORSE, FlexBE
-- **Programming** : C++, Embedded C, Python, JAVA
-- **RL Software** : OpenAI Gym, PyBullet, PhysX, RAI
+- **Programming** : C++, Embedded C, Python, JAVA,
+- **RL Software** : OpenAI Gym, PyBullet, PhysX, RAI,
 - **Deep Learning** : Pytorch, Keras, Tensorflow
 
 ## Social Media
