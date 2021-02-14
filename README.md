@@ -1,4 +1,4 @@
-# Robotics and AI Enthusiast
+# AI, Robotics and Music 
 
 ## Table of contents :notebook:
 - [Introduction](#introduction-page_with_curl)
