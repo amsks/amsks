@@ -1,4 +1,4 @@
-# AI, Robotics and Music 
+# Reinforcement Learning | Meta-Learning | AutoML 
 
 ## Table of contents :notebook:
 - [Introduction](#introduction-page_with_curl)
@@ -8,7 +8,7 @@
 - [Social Media](#social-media-speech_balloon)
 
 ## Introduction 
-I am a Master student in the EIT Digital Master's course in Autonomous systems. I am interested in exploring how systems infer patterns from empirical data and training them to learn a wide variety of skills from low-volume datasets. What excites me the most is the extent to which we can learn about our intelligence through the endeavor of creating one. I am currently working towards a specialization in Robotics and Reinforcement Learning. I am always up for working on interesting projects and ideas! 
+I am a doctoral candidate at the Leinbiz Universität Hannover. I am interested in exploring how systems infer patterns from empirical data and training them to learn a wide variety of skills from low-volume datasets, and particularly in different ways of transferring knowledge between tasks. I am always up for working on interesting projects and ideas! 
 
 ## Skills
 - **Robotics** : ROS, MORSE, FlexBE
@@ -33,4 +33,4 @@ Feel free to reach out to me at adityak735@gmail.com .
 - [Manipal Institute of Technology](https://manipal.edu/mit.html)
 
 ### Fun Fact
-- I am a musician - multiinstrumentalist and singer - and can sing in around 8 languages so far. Checkout some of my song covers on my [instagram page](https://www.instagram.com/melodic.musings/)
+- I am a musician - multiinstrumentalist and singer. Checkout some of my song covers on my [instagram page](https://www.instagram.com/melodic.musings/)
