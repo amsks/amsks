@@ -7,7 +7,7 @@
 - [Social Media](#social-media-speech_balloon)
 
 ## Introduction 
-I am a doctoral candidate at the Leinbiz Universität Hannover. I am interested in exploring how systems infer patterns from empirical data and training them to learn a wide variety of skills from low-volume datasets, and particularly in different ways of transferring knowledge between tasks. I am always up for working on interesting projects and ideas! 
+I am a Ph.D. candidate at the Automated Machine Learning group at Leibniz Universität Hannover . I am interested in exploring how agents can learn to abstract structure out of tasks and use this to adapt better to different classes of tasks. Thus, I am currently working on gaining further insight into generalization and domain adaptation in Reinforcement Learning and Meta-Learning. My greater research ambition is to develop agents that can learn how to tune their own algorithms. I have previously worked on problems in Robotics, Reinforcement Learning, and Meta-Learning in single-agent and Multi-Agent settings. 
 
 ## Technologies
 - **Robotics** : ROS, MORSE, FlexBE
