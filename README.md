@@ -1,6 +1,6 @@
 # Reinforcement Learning | Meta-Learning | AutoML 
 
-I am a Ph.D. candidate at the [AutoML Group in Hannover](https://www.tnt.uni-hannover.de/staff/eimer/). I am interested in exploring how agents can learn to abstract structure out of tasks and use this to adapt better to different classes of tasks. Thus, I am currently working on gaining further insight into generalization and domain adaptation in Reinforcement Learning and Meta-Learning. My greater research ambition is to develop agents that can learn how to tune their own algorithms. I have previously worked on problems in Robotics, Reinforcement Learning, and Meta-Learning in single-agent and multi-agent settings.
+I am a Ph.D. candidate at the [AutoML Group in Hannover](https://www.tnt.uni-hannover.de/staff/mohan/). I am interested in exploring how agents can learn to abstract structure out of tasks and use this to adapt better to different classes of tasks. Thus, I am currently working on gaining further insight into generalization and domain adaptation in Reinforcement Learning and Meta-Learning. My greater research ambition is to develop agents that can learn how to tune their own algorithms. I have previously worked on problems in Robotics, Reinforcement Learning, and Meta-Learning in single-agent and multi-agent settings.
 
 
 [![Meiudm Badge](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@adityak735)](https://medium.com/@adityak735) 
