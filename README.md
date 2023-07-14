@@ -1,9 +1,9 @@
 # Reinforcement Learning | Meta-Learning | AutoML 
 
-I am a Ph.D. candidate at the [AutoML group](https://www.ai.uni-hannover.de/en/institut/team/mohan) at the [Institute of AI, Hannover](https://www.ai.uni-hannover.de/en/). I am interested in exploring how agents can learn to abstract structure out of tasks and use this to adapt better to different classes of tasks. Thus, I am currently working on gaining further insight into Generalization and Algorithm Design in (Automated) Reinforcement Learning. My greater research ambition is to create Robust and General Learning pipelines that require minimal handcrafting from humans. 
+I am a Ph.D. candidate at the [Institute of Artificial Intelligence, Hannover](https://www.ai.uni-hannover.de/en/). I am interested in exploring how agents can learn to abstract structure out of tasks and use this to adapt better to different classes of tasks. Thus, I am currently working on gaining further insight into Generalization and Algorithm Design in (Automated) Reinforcement Learning. My greater research ambition is to create Robust and General Learning pipelines requiring minimal human handcrafting. 
 
 
-[![Meiudm Badge](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@adityak735)](https://medium.com/@adityak735) 
+[![Medium Badge](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@adityak735)](https://medium.com/@adityak735) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amsks/)](https://www.linkedin.com/in/amsks/) 
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&labelColor=4285F4&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=UTDR2x0AAAAJ&hl=en&oi=sra)](https://scholar.google.com/citations?user=UTDR2x0AAAAJ&hl=en&oi=sra) 
 [![Orcid Badge](https://img.shields.io/badge/-orcID-A6CE39?style=for-the-badge&labelColor=A6CE39&logo=orcid&logoColor=white&link=https://orcid.org/0000-0003-0092-3780)](https://orcid.org/0000-0003-0092-3780) 
